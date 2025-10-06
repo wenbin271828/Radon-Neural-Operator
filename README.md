@@ -1,6 +1,8 @@
-# Radon-Neural-Operator
-<div style="position:relative; width:100%; height:0; padding-bottom:50%; overflow:hidden;">
+# Radon Neural Operator (NeurIPS 2025)
+<p align="center">
+  <!-- 假设原图 1200×800，想压到高度 400 -->
   <img src="Radon.webp"
-       style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover;">
-</div>
-About code release of “Solving Partial Differential Equations via Radon Neural Operator”,NeurIPS 2025.
+       style="width:100%; height:300px; object-fit:cover;">
+</p>
+
+**About code release of “Solving Partial Differential Equations via Radon Neural Operator”,NeurIPS 2025.**
